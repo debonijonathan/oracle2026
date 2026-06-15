@@ -2,8 +2,8 @@ name: Update Predictions
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # ogni notte alle 02:00 UTC
-  workflow_dispatch:       # permette di lanciarlo manualmente
+    - cron: '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
@@ -17,9 +17,12 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pandas numpy scikit-learn xgboost
+        run: pip install pandas numpy scikit-learn xgboost kaggle
 
       - name: Run prediction script
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
         run: python generate.py
 
       - name: Commit updated predictions
