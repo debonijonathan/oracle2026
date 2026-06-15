@@ -1,0 +1,1377 @@
+{
+  "generated_at": "2026-06-15 17:13",
+  "model_accuracy": "54%",
+  "model_logloss": "0.9161",
+  "groups": {
+    "A": {
+      "teams": [
+        "Mexico",
+        "South Korea",
+        "South Africa",
+        "Czech Republic"
+      ],
+      "matches": [
+        {
+          "home": "Mexico",
+          "away": "South Korea",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.604,
+          "prob_draw": 0.322,
+          "prob_away": 0.074,
+          "prediction": 1
+        },
+        {
+          "home": "Mexico",
+          "away": "South Africa",
+          "status": "played",
+          "home_score": 2,
+          "away_score": 0,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Mexico",
+          "away": "Czech Republic",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.649,
+          "prob_draw": 0.26,
+          "prob_away": 0.091,
+          "prediction": 0
+        },
+        {
+          "home": "South Korea",
+          "away": "South Africa",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.473,
+          "prob_draw": 0.201,
+          "prob_away": 0.326,
+          "prediction": 0
+        },
+        {
+          "home": "South Korea",
+          "away": "Czech Republic",
+          "status": "played",
+          "home_score": 2,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "South Africa",
+          "away": "Czech Republic",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.434,
+          "prob_draw": 0.225,
+          "prob_away": 0.341,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "Mexico",
+          "points": 7,
+          "played": 3,
+          "gf": 2,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "South Korea",
+          "points": 7,
+          "played": 3,
+          "gf": 2,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "South Africa",
+          "points": 3,
+          "played": 3,
+          "gf": 0,
+          "gs": 2,
+          "advances": false
+        },
+        {
+          "team": "Czech Republic",
+          "points": 0,
+          "played": 3,
+          "gf": 1,
+          "gs": 2,
+          "advances": false
+        }
+      ]
+    },
+    "B": {
+      "teams": [
+        "Canada",
+        "Switzerland",
+        "Qatar",
+        "Bosnia and Herzegovina"
+      ],
+      "matches": [
+        {
+          "home": "Canada",
+          "away": "Switzerland",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.202,
+          "prob_draw": 0.231,
+          "prob_away": 0.567,
+          "prediction": 2
+        },
+        {
+          "home": "Canada",
+          "away": "Qatar",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.359,
+          "prob_draw": 0.248,
+          "prob_away": 0.393,
+          "prediction": 2
+        },
+        {
+          "home": "Canada",
+          "away": "Bosnia and Herzegovina",
+          "status": "played",
+          "home_score": 1,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Switzerland",
+          "away": "Qatar",
+          "status": "played",
+          "home_score": 1,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Switzerland",
+          "away": "Bosnia and Herzegovina",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.614,
+          "prob_draw": 0.222,
+          "prob_away": 0.164,
+          "prediction": 0
+        },
+        {
+          "home": "Qatar",
+          "away": "Bosnia and Herzegovina",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.5,
+          "prob_draw": 0.237,
+          "prob_away": 0.263,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "Switzerland",
+          "points": 7,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Qatar",
+          "points": 7,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Canada",
+          "points": 1,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": false
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "points": 1,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": false
+        }
+      ]
+    },
+    "C": {
+      "teams": [
+        "Brazil",
+        "Morocco",
+        "Haiti",
+        "Scotland"
+      ],
+      "matches": [
+        {
+          "home": "Brazil",
+          "away": "Morocco",
+          "status": "played",
+          "home_score": 1,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Brazil",
+          "away": "Haiti",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.69,
+          "prob_draw": 0.217,
+          "prob_away": 0.093,
+          "prediction": 0
+        },
+        {
+          "home": "Brazil",
+          "away": "Scotland",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.65,
+          "prob_draw": 0.192,
+          "prob_away": 0.157,
+          "prediction": 0
+        },
+        {
+          "home": "Morocco",
+          "away": "Haiti",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.713,
+          "prob_draw": 0.227,
+          "prob_away": 0.06,
+          "prediction": 0
+        },
+        {
+          "home": "Morocco",
+          "away": "Scotland",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.564,
+          "prob_draw": 0.246,
+          "prob_away": 0.19,
+          "prediction": 0
+        },
+        {
+          "home": "Haiti",
+          "away": "Scotland",
+          "status": "played",
+          "home_score": 0,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Brazil",
+          "points": 7,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Morocco",
+          "points": 7,
+          "played": 3,
+          "gf": 1,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Scotland",
+          "points": 3,
+          "played": 3,
+          "gf": 1,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Haiti",
+          "points": 0,
+          "played": 3,
+          "gf": 0,
+          "gs": 1,
+          "advances": false
+        }
+      ]
+    },
+    "D": {
+      "teams": [
+        "United States",
+        "Paraguay",
+        "Australia",
+        "Turkey"
+      ],
+      "matches": [
+        {
+          "home": "United States",
+          "away": "Paraguay",
+          "status": "played",
+          "home_score": 4,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "United States",
+          "away": "Australia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.465,
+          "prob_draw": 0.201,
+          "prob_away": 0.334,
+          "prediction": 0
+        },
+        {
+          "home": "United States",
+          "away": "Turkey",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.581,
+          "prob_draw": 0.183,
+          "prob_away": 0.236,
+          "prediction": 0
+        },
+        {
+          "home": "Paraguay",
+          "away": "Australia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.171,
+          "prob_draw": 0.239,
+          "prob_away": 0.59,
+          "prediction": 2
+        },
+        {
+          "home": "Paraguay",
+          "away": "Turkey",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.276,
+          "prob_draw": 0.262,
+          "prob_away": 0.462,
+          "prediction": 2
+        },
+        {
+          "home": "Australia",
+          "away": "Turkey",
+          "status": "played",
+          "home_score": 2,
+          "away_score": 0,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "United States",
+          "points": 9,
+          "played": 3,
+          "gf": 4,
+          "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Australia",
+          "points": 6,
+          "played": 3,
+          "gf": 2,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Turkey",
+          "points": 3,
+          "played": 3,
+          "gf": 0,
+          "gs": 2,
+          "advances": false
+        },
+        {
+          "team": "Paraguay",
+          "points": 0,
+          "played": 3,
+          "gf": 1,
+          "gs": 4,
+          "advances": false
+        }
+      ]
+    },
+    "E": {
+      "teams": [
+        "Germany",
+        "Ecuador",
+        "Ivory Coast",
+        "Curacao"
+      ],
+      "matches": [
+        {
+          "home": "Germany",
+          "away": "Ecuador",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.535,
+          "prob_draw": 0.324,
+          "prob_away": 0.141,
+          "prediction": 1
+        },
+        {
+          "home": "Germany",
+          "away": "Ivory Coast",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.651,
+          "prob_draw": 0.264,
+          "prob_away": 0.084,
+          "prediction": 0
+        },
+        {
+          "home": "Germany",
+          "away": "Curacao",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.688,
+          "prob_draw": 0.245,
+          "prob_away": 0.067,
+          "prediction": 0
+        },
+        {
+          "home": "Ecuador",
+          "away": "Ivory Coast",
+          "status": "played",
+          "home_score": 0,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Ecuador",
+          "away": "Curacao",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.73,
+          "prob_draw": 0.18,
+          "prob_away": 0.09,
+          "prediction": 0
+        },
+        {
+          "home": "Ivory Coast",
+          "away": "Curacao",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.638,
+          "prob_draw": 0.182,
+          "prob_away": 0.18,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "Germany",
+          "points": 7,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Ivory Coast",
+          "points": 6,
+          "played": 3,
+          "gf": 1,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Ecuador",
+          "points": 4,
+          "played": 3,
+          "gf": 0,
+          "gs": 1,
+          "advances": false
+        },
+        {
+          "team": "Curacao",
+          "points": 0,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "F": {
+      "teams": [
+        "Netherlands",
+        "Japan",
+        "Tunisia",
+        "Sweden"
+      ],
+      "matches": [
+        {
+          "home": "Netherlands",
+          "away": "Japan",
+          "status": "played",
+          "home_score": 2,
+          "away_score": 2,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        },
+        {
+          "home": "Netherlands",
+          "away": "Tunisia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.653,
+          "prob_draw": 0.212,
+          "prob_away": 0.135,
+          "prediction": 0
+        },
+        {
+          "home": "Netherlands",
+          "away": "Sweden",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.56,
+          "prob_draw": 0.24,
+          "prob_away": 0.2,
+          "prediction": 0
+        },
+        {
+          "home": "Japan",
+          "away": "Tunisia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.508,
+          "prob_draw": 0.268,
+          "prob_away": 0.224,
+          "prediction": 0
+        },
+        {
+          "home": "Japan",
+          "away": "Sweden",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.408,
+          "prob_draw": 0.241,
+          "prob_away": 0.351,
+          "prediction": 0
+        },
+        {
+          "home": "Tunisia",
+          "away": "Sweden",
+          "status": "played",
+          "home_score": 1,
+          "away_score": 5,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Netherlands",
+          "points": 7,
+          "played": 3,
+          "gf": 2,
+          "gs": 2,
+          "advances": true
+        },
+        {
+          "team": "Japan",
+          "points": 7,
+          "played": 3,
+          "gf": 2,
+          "gs": 2,
+          "advances": true
+        },
+        {
+          "team": "Sweden",
+          "points": 3,
+          "played": 3,
+          "gf": 5,
+          "gs": 1,
+          "advances": false
+        },
+        {
+          "team": "Tunisia",
+          "points": 0,
+          "played": 3,
+          "gf": 1,
+          "gs": 5,
+          "advances": false
+        }
+      ]
+    },
+    "G": {
+      "teams": [
+        "Belgium",
+        "Egypt",
+        "Iran",
+        "New Zealand"
+      ],
+      "matches": [
+        {
+          "home": "Belgium",
+          "away": "Egypt",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.593,
+          "prob_draw": 0.12,
+          "prob_away": 0.286,
+          "prediction": 0
+        },
+        {
+          "home": "Belgium",
+          "away": "Iran",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.749,
+          "prob_draw": 0.029,
+          "prob_away": 0.221,
+          "prediction": 0
+        },
+        {
+          "home": "Belgium",
+          "away": "New Zealand",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.729,
+          "prob_draw": 0.076,
+          "prob_away": 0.196,
+          "prediction": 0
+        },
+        {
+          "home": "Egypt",
+          "away": "Iran",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.603,
+          "prob_draw": 0.047,
+          "prob_away": 0.351,
+          "prediction": 0
+        },
+        {
+          "home": "Egypt",
+          "away": "New Zealand",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.627,
+          "prob_draw": 0.092,
+          "prob_away": 0.281,
+          "prediction": 0
+        },
+        {
+          "home": "Iran",
+          "away": "New Zealand",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.354,
+          "prob_draw": 0.124,
+          "prob_away": 0.523,
+          "prediction": 2
+        }
+      ],
+      "standings": [
+        {
+          "team": "Belgium",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Egypt",
+          "points": 6,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "New Zealand",
+          "points": 3,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Iran",
+          "points": 0,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "H": {
+      "teams": [
+        "Spain",
+        "Uruguay",
+        "Saudi Arabia",
+        "Cape Verde"
+      ],
+      "matches": [
+        {
+          "home": "Spain",
+          "away": "Uruguay",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.589,
+          "prob_draw": 0.133,
+          "prob_away": 0.278,
+          "prediction": 0
+        },
+        {
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.7,
+          "prob_draw": 0.114,
+          "prob_away": 0.186,
+          "prediction": 0
+        },
+        {
+          "home": "Spain",
+          "away": "Cape Verde",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.528,
+          "prob_draw": 0.076,
+          "prob_away": 0.397,
+          "prediction": 0
+        },
+        {
+          "home": "Uruguay",
+          "away": "Saudi Arabia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.547,
+          "prob_draw": 0.152,
+          "prob_away": 0.3,
+          "prediction": 0
+        },
+        {
+          "home": "Uruguay",
+          "away": "Cape Verde",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.624,
+          "prob_draw": 0.064,
+          "prob_away": 0.312,
+          "prediction": 0
+        },
+        {
+          "home": "Saudi Arabia",
+          "away": "Cape Verde",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.528,
+          "prob_draw": 0.046,
+          "prob_away": 0.426,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "Spain",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Uruguay",
+          "points": 6,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Saudi Arabia",
+          "points": 3,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Cape Verde",
+          "points": 0,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "I": {
+      "teams": [
+        "France",
+        "Senegal",
+        "Norway",
+        "Iraq"
+      ],
+      "matches": [
+        {
+          "home": "France",
+          "away": "Senegal",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.63,
+          "prob_draw": 0.18,
+          "prob_away": 0.19,
+          "prediction": 0
+        },
+        {
+          "home": "France",
+          "away": "Norway",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.572,
+          "prob_draw": 0.179,
+          "prob_away": 0.248,
+          "prediction": 0
+        },
+        {
+          "home": "France",
+          "away": "Iraq",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.743,
+          "prob_draw": 0.17,
+          "prob_away": 0.087,
+          "prediction": 0
+        },
+        {
+          "home": "Senegal",
+          "away": "Norway",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.475,
+          "prob_draw": 0.188,
+          "prob_away": 0.337,
+          "prediction": 0
+        },
+        {
+          "home": "Senegal",
+          "away": "Iraq",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.567,
+          "prob_draw": 0.269,
+          "prob_away": 0.164,
+          "prediction": 0
+        },
+        {
+          "home": "Norway",
+          "away": "Iraq",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.535,
+          "prob_draw": 0.261,
+          "prob_away": 0.204,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "France",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Senegal",
+          "points": 6,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Norway",
+          "points": 3,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Iraq",
+          "points": 0,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "J": {
+      "teams": [
+        "Argentina",
+        "Algeria",
+        "Austria",
+        "Jordan"
+      ],
+      "matches": [
+        {
+          "home": "Argentina",
+          "away": "Algeria",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.69,
+          "prob_draw": 0.194,
+          "prob_away": 0.116,
+          "prediction": 0
+        },
+        {
+          "home": "Argentina",
+          "away": "Austria",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.569,
+          "prob_draw": 0.216,
+          "prob_away": 0.215,
+          "prediction": 0
+        },
+        {
+          "home": "Argentina",
+          "away": "Jordan",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.741,
+          "prob_draw": 0.179,
+          "prob_away": 0.08,
+          "prediction": 0
+        },
+        {
+          "home": "Algeria",
+          "away": "Austria",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.23,
+          "prob_draw": 0.273,
+          "prob_away": 0.497,
+          "prediction": 1
+        },
+        {
+          "home": "Algeria",
+          "away": "Jordan",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.518,
+          "prob_draw": 0.286,
+          "prob_away": 0.196,
+          "prediction": 1
+        },
+        {
+          "home": "Austria",
+          "away": "Jordan",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.67,
+          "prob_draw": 0.203,
+          "prob_away": 0.127,
+          "prediction": 0
+        }
+      ],
+      "standings": [
+        {
+          "team": "Argentina",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Austria",
+          "points": 4,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Algeria",
+          "points": 2,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Jordan",
+          "points": 1,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "K": {
+      "teams": [
+        "Portugal",
+        "Colombia",
+        "Uzbekistan",
+        "DR Congo"
+      ],
+      "matches": [
+        {
+          "home": "Portugal",
+          "away": "Colombia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.526,
+          "prob_draw": 0.198,
+          "prob_away": 0.276,
+          "prediction": 0
+        },
+        {
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.702,
+          "prob_draw": 0.172,
+          "prob_away": 0.127,
+          "prediction": 0
+        },
+        {
+          "home": "Portugal",
+          "away": "DR Congo",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.758,
+          "prob_draw": 0.176,
+          "prob_away": 0.066,
+          "prediction": 0
+        },
+        {
+          "home": "Colombia",
+          "away": "Uzbekistan",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.609,
+          "prob_draw": 0.228,
+          "prob_away": 0.163,
+          "prediction": 0
+        },
+        {
+          "home": "Colombia",
+          "away": "DR Congo",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.663,
+          "prob_draw": 0.222,
+          "prob_away": 0.115,
+          "prediction": 0
+        },
+        {
+          "home": "Uzbekistan",
+          "away": "DR Congo",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.532,
+          "prob_draw": 0.28,
+          "prob_away": 0.188,
+          "prediction": 1
+        }
+      ],
+      "standings": [
+        {
+          "team": "Portugal",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Colombia",
+          "points": 6,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Uzbekistan",
+          "points": 1,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "DR Congo",
+          "points": 1,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    },
+    "L": {
+      "teams": [
+        "England",
+        "Croatia",
+        "Ghana",
+        "Panama"
+      ],
+      "matches": [
+        {
+          "home": "England",
+          "away": "Croatia",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.519,
+          "prob_draw": 0.25,
+          "prob_away": 0.231,
+          "prediction": 0
+        },
+        {
+          "home": "England",
+          "away": "Ghana",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.677,
+          "prob_draw": 0.229,
+          "prob_away": 0.094,
+          "prediction": 0
+        },
+        {
+          "home": "England",
+          "away": "Panama",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.689,
+          "prob_draw": 0.21,
+          "prob_away": 0.101,
+          "prediction": 0
+        },
+        {
+          "home": "Croatia",
+          "away": "Ghana",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.631,
+          "prob_draw": 0.25,
+          "prob_away": 0.119,
+          "prediction": 0
+        },
+        {
+          "home": "Croatia",
+          "away": "Panama",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.557,
+          "prob_draw": 0.275,
+          "prob_away": 0.167,
+          "prediction": 1
+        },
+        {
+          "home": "Ghana",
+          "away": "Panama",
+          "status": "predicted",
+          "home_score": null,
+          "away_score": null,
+          "prob_home": 0.322,
+          "prob_draw": 0.298,
+          "prob_away": 0.38,
+          "prediction": 1
+        }
+      ],
+      "standings": [
+        {
+          "team": "England",
+          "points": 9,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Croatia",
+          "points": 4,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": true
+        },
+        {
+          "team": "Panama",
+          "points": 2,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        },
+        {
+          "team": "Ghana",
+          "points": 1,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
+          "advances": false
+        }
+      ]
+    }
+  },
+  "world_cup_winner_odds": {
+    "Brazil": 14.0,
+    "Germany": 13.1,
+    "Netherlands": 11.5,
+    "Mexico": 9.0,
+    "Morocco": 6.1,
+    "Belgium": 5.8,
+    "Switzerland": 4.6,
+    "Japan": 3.5,
+    "Sweden": 3.4,
+    "Spain": 3.0,
+    "Australia": 2.7,
+    "United States": 2.7,
+    "Ecuador": 1.8,
+    "Scotland": 1.8,
+    "Norway": 1.5,
+    "Austria": 1.4,
+    "South Korea": 1.3,
+    "France": 1.1,
+    "Turkey": 1.1,
+    "Colombia": 1.0,
+    "Senegal": 1.0,
+    "Ivory Coast": 0.8,
+    "Qatar": 0.8,
+    "Uruguay": 0.8,
+    "Argentina": 0.7,
+    "Croatia": 0.7,
+    "England": 0.6,
+    "Algeria": 0.5,
+    "Portugal": 0.5,
+    "Tunisia": 0.4,
+    "Canada": 0.4,
+    "South Africa": 0.3,
+    "Panama": 0.3,
+    "Bosnia and Herzegovina": 0.3,
+    "Czech Republic": 0.3,
+    "Egypt": 0.2,
+    "Uzbekistan": 0.2,
+    "Ghana": 0.2,
+    "Paraguay": 0.2,
+    "Iraq": 0.1,
+    "DR Congo": 0.1,
+    "Haiti": 0.1,
+    "Jordan": 0.1,
+    "Curacao": 0.1,
+    "Iran": 0.0,
+    "Saudi Arabia": 0.0,
+    "Cape Verde": 0.0,
+    "New Zealand": 0.0
+  }
+}
