@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17 04:25",
-  "model_accuracy": "59%",
-  "model_logloss": "0.9258",
+  "generated_at": "2026-06-17 11:05",
+  "model_accuracy": "58%",
+  "model_logloss": "0.9142",
   "groups": {
     "A": {
       "teams": [
@@ -17,9 +17,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.584,
-          "prob_draw": 0.338,
-          "prob_away": 0.078,
+          "prob_home": 0.564,
+          "prob_draw": 0.341,
+          "prob_away": 0.095,
           "prediction": 1
         },
         {
@@ -39,9 +39,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.689,
-          "prob_draw": 0.229,
-          "prob_away": 0.081,
+          "prob_home": 0.7,
+          "prob_draw": 0.232,
+          "prob_away": 0.068,
           "prediction": 0
         },
         {
@@ -50,9 +50,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.43,
-          "prob_draw": 0.217,
-          "prob_away": 0.353,
+          "prob_home": 0.454,
+          "prob_draw": 0.212,
+          "prob_away": 0.334,
           "prediction": 0
         },
         {
@@ -72,9 +72,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.437,
-          "prob_draw": 0.226,
-          "prob_away": 0.337,
+          "prob_home": 0.463,
+          "prob_draw": 0.21,
+          "prob_away": 0.327,
           "prediction": 0
         }
       ],
@@ -128,8 +128,8 @@
           "home_score": null,
           "away_score": null,
           "prob_home": 0.209,
-          "prob_draw": 0.239,
-          "prob_away": 0.552,
+          "prob_draw": 0.247,
+          "prob_away": 0.545,
           "prediction": 2
         },
         {
@@ -139,8 +139,8 @@
           "home_score": null,
           "away_score": null,
           "prob_home": 0.341,
-          "prob_draw": 0.244,
-          "prob_away": 0.415,
+          "prob_draw": 0.245,
+          "prob_away": 0.414,
           "prediction": 2
         },
         {
@@ -171,9 +171,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.595,
-          "prob_draw": 0.227,
-          "prob_away": 0.177,
+          "prob_home": 0.609,
+          "prob_draw": 0.223,
+          "prob_away": 0.168,
           "prediction": 0
         },
         {
@@ -182,9 +182,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.517,
-          "prob_draw": 0.225,
-          "prob_away": 0.258,
+          "prob_home": 0.509,
+          "prob_draw": 0.235,
+          "prob_away": 0.256,
           "prediction": 0
         }
       ],
@@ -248,9 +248,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.698,
-          "prob_draw": 0.217,
-          "prob_away": 0.085,
+          "prob_home": 0.704,
+          "prob_draw": 0.207,
+          "prob_away": 0.088,
           "prediction": 0
         },
         {
@@ -259,9 +259,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.635,
-          "prob_draw": 0.211,
-          "prob_away": 0.154,
+          "prob_home": 0.648,
+          "prob_draw": 0.202,
+          "prob_away": 0.15,
           "prediction": 0
         },
         {
@@ -270,9 +270,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.718,
-          "prob_draw": 0.212,
-          "prob_away": 0.071,
+          "prob_home": 0.727,
+          "prob_draw": 0.217,
+          "prob_away": 0.056,
           "prediction": 0
         },
         {
@@ -281,9 +281,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.595,
-          "prob_draw": 0.226,
-          "prob_away": 0.178,
+          "prob_home": 0.579,
+          "prob_draw": 0.239,
+          "prob_away": 0.182,
           "prediction": 0
         },
         {
@@ -358,9 +358,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.47,
-          "prob_draw": 0.209,
-          "prob_away": 0.321,
+          "prob_home": 0.428,
+          "prob_draw": 0.206,
+          "prob_away": 0.367,
           "prediction": 0
         },
         {
@@ -369,9 +369,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.571,
-          "prob_draw": 0.197,
-          "prob_away": 0.232,
+          "prob_home": 0.528,
+          "prob_draw": 0.207,
+          "prob_away": 0.265,
           "prediction": 0
         },
         {
@@ -380,9 +380,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.16,
-          "prob_draw": 0.251,
-          "prob_away": 0.59,
+          "prob_home": 0.173,
+          "prob_draw": 0.252,
+          "prob_away": 0.575,
           "prediction": 2
         },
         {
@@ -391,9 +391,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.277,
-          "prob_draw": 0.243,
-          "prob_away": 0.481,
+          "prob_home": 0.248,
+          "prob_draw": 0.263,
+          "prob_away": 0.489,
           "prediction": 2
         },
         {
@@ -457,9 +457,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.552,
-          "prob_draw": 0.315,
-          "prob_away": 0.133,
+          "prob_home": 0.54,
+          "prob_draw": 0.31,
+          "prob_away": 0.15,
           "prediction": 1
         },
         {
@@ -468,7 +468,7 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.667,
+          "prob_home": 0.668,
           "prob_draw": 0.243,
           "prob_away": 0.089,
           "prediction": 0
@@ -479,9 +479,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.717,
-          "prob_draw": 0.226,
-          "prob_away": 0.057,
+          "prob_home": 0.699,
+          "prob_draw": 0.234,
+          "prob_away": 0.068,
           "prediction": 0
         },
         {
@@ -501,9 +501,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.737,
-          "prob_draw": 0.186,
-          "prob_away": 0.078,
+          "prob_home": 0.712,
+          "prob_draw": 0.196,
+          "prob_away": 0.092,
           "prediction": 0
         },
         {
@@ -512,9 +512,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.617,
-          "prob_draw": 0.204,
-          "prob_away": 0.179,
+          "prob_home": 0.589,
+          "prob_draw": 0.209,
+          "prob_away": 0.203,
           "prediction": 0
         }
       ],
@@ -578,9 +578,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.675,
-          "prob_draw": 0.204,
-          "prob_away": 0.121,
+          "prob_home": 0.68,
+          "prob_draw": 0.193,
+          "prob_away": 0.127,
           "prediction": 0
         },
         {
@@ -589,9 +589,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.557,
-          "prob_draw": 0.234,
-          "prob_away": 0.208,
+          "prob_home": 0.535,
+          "prob_draw": 0.247,
+          "prob_away": 0.218,
           "prediction": 0
         },
         {
@@ -600,10 +600,10 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.518,
-          "prob_draw": 0.271,
-          "prob_away": 0.212,
-          "prediction": 1
+          "prob_home": 0.504,
+          "prob_draw": 0.267,
+          "prob_away": 0.23,
+          "prediction": 0
         },
         {
           "home": "Japan",
@@ -611,9 +611,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.429,
-          "prob_draw": 0.234,
-          "prob_away": 0.337,
+          "prob_home": 0.43,
+          "prob_draw": 0.241,
+          "prob_away": 0.329,
           "prediction": 0
         },
         {
@@ -639,7 +639,7 @@
         },
         {
           "team": "Japan",
-          "points": 5,
+          "points": 7,
           "played": 3,
           "gf": 2,
           "gs": 2,
@@ -655,7 +655,7 @@
         },
         {
           "team": "Tunisia",
-          "points": 1,
+          "points": 0,
           "played": 3,
           "gf": 1,
           "gs": 5,
@@ -688,9 +688,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.798,
-          "prob_draw": 0.146,
-          "prob_away": 0.056,
+          "prob_home": 0.814,
+          "prob_draw": 0.14,
+          "prob_away": 0.046,
           "prediction": 0
         },
         {
@@ -699,9 +699,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.804,
-          "prob_draw": 0.147,
-          "prob_away": 0.05,
+          "prob_home": 0.817,
+          "prob_draw": 0.156,
+          "prob_away": 0.028,
           "prediction": 0
         },
         {
@@ -710,9 +710,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.52,
-          "prob_draw": 0.256,
-          "prob_away": 0.224,
+          "prob_home": 0.515,
+          "prob_draw": 0.265,
+          "prob_away": 0.22,
           "prediction": 0
         },
         {
@@ -721,9 +721,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.661,
-          "prob_draw": 0.229,
-          "prob_away": 0.11,
+          "prob_home": 0.645,
+          "prob_draw": 0.225,
+          "prob_away": 0.13,
           "prediction": 0
         },
         {
@@ -787,9 +787,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.557,
-          "prob_draw": 0.256,
-          "prob_away": 0.188,
+          "prob_home": 0.549,
+          "prob_draw": 0.254,
+          "prob_away": 0.197,
           "prediction": 0
         },
         {
@@ -798,9 +798,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.717,
-          "prob_draw": 0.193,
-          "prob_away": 0.09,
+          "prob_home": 0.709,
+          "prob_draw": 0.19,
+          "prob_away": 0.1,
           "prediction": 0
         },
         {
@@ -831,9 +831,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.601,
-          "prob_draw": 0.29,
-          "prob_away": 0.109,
+          "prob_home": 0.605,
+          "prob_draw": 0.282,
+          "prob_away": 0.114,
           "prediction": 1
         },
         {
@@ -842,9 +842,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.391,
-          "prob_draw": 0.241,
-          "prob_away": 0.368,
+          "prob_home": 0.38,
+          "prob_draw": 0.257,
+          "prob_away": 0.363,
           "prediction": 0
         }
       ],
@@ -894,13 +894,13 @@
         {
           "home": "France",
           "away": "Senegal",
-          "status": "predicted",
-          "home_score": null,
-          "away_score": null,
-          "prob_home": 0.548,
-          "prob_draw": 0.148,
-          "prob_away": 0.304,
-          "prediction": 0
+          "status": "played",
+          "home_score": 3,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
         },
         {
           "home": "France",
@@ -908,9 +908,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.616,
-          "prob_draw": 0.143,
-          "prob_away": 0.241,
+          "prob_home": 0.622,
+          "prob_draw": 0.154,
+          "prob_away": 0.224,
           "prediction": 0
         },
         {
@@ -919,9 +919,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.701,
-          "prob_draw": 0.061,
-          "prob_away": 0.238,
+          "prob_home": 0.748,
+          "prob_draw": 0.156,
+          "prob_away": 0.096,
           "prediction": 0
         },
         {
@@ -930,9 +930,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.571,
-          "prob_draw": 0.114,
-          "prob_away": 0.315,
+          "prob_home": 0.47,
+          "prob_draw": 0.199,
+          "prob_away": 0.331,
           "prediction": 0
         },
         {
@@ -941,21 +941,21 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.571,
-          "prob_draw": 0.1,
-          "prob_away": 0.329,
+          "prob_home": 0.569,
+          "prob_draw": 0.234,
+          "prob_away": 0.197,
           "prediction": 0
         },
         {
           "home": "Norway",
           "away": "Iraq",
-          "status": "predicted",
-          "home_score": null,
-          "away_score": null,
-          "prob_home": 0.41,
-          "prob_draw": 0.171,
-          "prob_away": 0.42,
-          "prediction": 2
+          "status": "played",
+          "home_score": 4,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
         }
       ],
       "standings": [
@@ -963,32 +963,32 @@
           "team": "France",
           "points": 9,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 3,
+          "gs": 1,
           "advances": true
         },
         {
           "team": "Senegal",
           "points": 6,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 1,
+          "gs": 3,
           "advances": true
         },
         {
-          "team": "Iraq",
+          "team": "Norway",
           "points": 3,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 4,
+          "gs": 1,
           "advances": false
         },
         {
-          "team": "Norway",
+          "team": "Iraq",
           "points": 0,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 1,
+          "gs": 4,
           "advances": false
         }
       ]
@@ -1004,13 +1004,13 @@
         {
           "home": "Argentina",
           "away": "Algeria",
-          "status": "predicted",
-          "home_score": null,
-          "away_score": null,
-          "prob_home": 0.59,
-          "prob_draw": 0.127,
-          "prob_away": 0.283,
-          "prediction": 0
+          "status": "played",
+          "home_score": 3,
+          "away_score": 0,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
         },
         {
           "home": "Argentina",
@@ -1018,9 +1018,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.691,
-          "prob_draw": 0.086,
-          "prob_away": 0.223,
+          "prob_home": 0.629,
+          "prob_draw": 0.2,
+          "prob_away": 0.171,
           "prediction": 0
         },
         {
@@ -1029,9 +1029,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.745,
-          "prob_draw": 0.059,
-          "prob_away": 0.197,
+          "prob_home": 0.785,
+          "prob_draw": 0.167,
+          "prob_away": 0.049,
           "prediction": 0
         },
         {
@@ -1040,9 +1040,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.342,
-          "prob_draw": 0.149,
-          "prob_away": 0.509,
+          "prob_home": 0.238,
+          "prob_draw": 0.247,
+          "prob_away": 0.514,
           "prediction": 2
         },
         {
@@ -1051,21 +1051,21 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.607,
-          "prob_draw": 0.133,
-          "prob_away": 0.26,
+          "prob_home": 0.55,
+          "prob_draw": 0.261,
+          "prob_away": 0.189,
           "prediction": 0
         },
         {
           "home": "Austria",
           "away": "Jordan",
-          "status": "predicted",
-          "home_score": null,
-          "away_score": null,
-          "prob_home": 0.497,
-          "prob_draw": 0.142,
-          "prob_away": 0.361,
-          "prediction": 0
+          "status": "played",
+          "home_score": 3,
+          "away_score": 1,
+          "prob_home": null,
+          "prob_draw": null,
+          "prob_away": null,
+          "prediction": null
         }
       ],
       "standings": [
@@ -1073,7 +1073,7 @@
           "team": "Argentina",
           "points": 9,
           "played": 3,
-          "gf": 0,
+          "gf": 3,
           "gs": 0,
           "advances": true
         },
@@ -1081,8 +1081,8 @@
           "team": "Austria",
           "points": 6,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 3,
+          "gs": 1,
           "advances": true
         },
         {
@@ -1090,15 +1090,15 @@
           "points": 3,
           "played": 3,
           "gf": 0,
-          "gs": 0,
+          "gs": 3,
           "advances": false
         },
         {
           "team": "Jordan",
           "points": 0,
           "played": 3,
-          "gf": 0,
-          "gs": 0,
+          "gf": 1,
+          "gs": 3,
           "advances": false
         }
       ]
@@ -1117,9 +1117,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.542,
-          "prob_draw": 0.154,
-          "prob_away": 0.304,
+          "prob_home": 0.503,
+          "prob_draw": 0.15,
+          "prob_away": 0.347,
           "prediction": 0
         },
         {
@@ -1128,9 +1128,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.65,
-          "prob_draw": 0.11,
-          "prob_away": 0.24,
+          "prob_home": 0.608,
+          "prob_draw": 0.148,
+          "prob_away": 0.244,
           "prediction": 0
         },
         {
@@ -1139,9 +1139,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.506,
-          "prob_draw": 0.084,
-          "prob_away": 0.41,
+          "prob_home": 0.514,
+          "prob_draw": 0.111,
+          "prob_away": 0.375,
           "prediction": 0
         },
         {
@@ -1150,9 +1150,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.506,
-          "prob_draw": 0.164,
-          "prob_away": 0.33,
+          "prob_home": 0.516,
+          "prob_draw": 0.151,
+          "prob_away": 0.333,
           "prediction": 0
         },
         {
@@ -1161,9 +1161,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.633,
-          "prob_draw": 0.029,
-          "prob_away": 0.338,
+          "prob_home": 0.637,
+          "prob_draw": 0.049,
+          "prob_away": 0.314,
           "prediction": 0
         },
         {
@@ -1172,9 +1172,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.554,
-          "prob_draw": 0.017,
-          "prob_away": 0.429,
+          "prob_home": 0.499,
+          "prob_draw": 0.032,
+          "prob_away": 0.469,
           "prediction": 0
         }
       ],
@@ -1227,9 +1227,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.52,
-          "prob_draw": 0.177,
-          "prob_away": 0.303,
+          "prob_home": 0.485,
+          "prob_draw": 0.19,
+          "prob_away": 0.325,
           "prediction": 0
         },
         {
@@ -1238,9 +1238,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.677,
-          "prob_draw": 0.149,
-          "prob_away": 0.175,
+          "prob_home": 0.613,
+          "prob_draw": 0.166,
+          "prob_away": 0.221,
           "prediction": 0
         },
         {
@@ -1249,9 +1249,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.734,
-          "prob_draw": 0.115,
-          "prob_away": 0.151,
+          "prob_home": 0.679,
+          "prob_draw": 0.139,
+          "prob_away": 0.182,
           "prediction": 0
         },
         {
@@ -1260,9 +1260,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.654,
-          "prob_draw": 0.067,
-          "prob_away": 0.279,
+          "prob_home": 0.644,
+          "prob_draw": 0.041,
+          "prob_away": 0.316,
           "prediction": 0
         },
         {
@@ -1271,9 +1271,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.581,
-          "prob_draw": 0.123,
-          "prob_away": 0.296,
+          "prob_home": 0.538,
+          "prob_draw": 0.141,
+          "prob_away": 0.321,
           "prediction": 0
         },
         {
@@ -1282,9 +1282,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.315,
-          "prob_draw": 0.179,
-          "prob_away": 0.506,
+          "prob_home": 0.327,
+          "prob_draw": 0.175,
+          "prob_away": 0.498,
           "prediction": 2
         }
       ],
@@ -1325,49 +1325,50 @@
     }
   },
   "world_cup_winner_odds": {
-    "Belgium": 21.8,
-    "Brazil": 11.4,
-    "Germany": 11.3,
-    "Spain": 10.1,
+    "Belgium": 20.3,
+    "Brazil": 11.7,
+    "Germany": 10.2,
+    "Spain": 9.3,
     "Netherlands": 8.6,
-    "Mexico": 8.3,
-    "Morocco": 4.8,
-    "Switzerland": 3.5,
-    "Uruguay": 2.6,
+    "Mexico": 7.8,
+    "Morocco": 4.9,
+    "Switzerland": 3.9,
+    "Uruguay": 2.4,
     "Japan": 2.4,
+    "Australia": 2.1,
     "Sweden": 2.1,
-    "Australia": 1.8,
+    "Senegal": 1.7,
     "United States": 1.7,
-    "Ecuador": 1.5,
-    "Scotland": 1.2,
+    "Scotland": 1.5,
+    "Ecuador": 1.2,
     "South Korea": 0.9,
-    "Egypt": 0.8,
     "Qatar": 0.7,
-    "Ivory Coast": 0.7,
-    "Turkey": 0.5,
+    "Turkey": 0.7,
+    "Norway": 0.6,
+    "France": 0.6,
+    "Egypt": 0.6,
+    "Ivory Coast": 0.6,
+    "Algeria": 0.5,
     "Canada": 0.4,
-    "France": 0.4,
-    "South Africa": 0.4,
-    "Argentina": 0.3,
-    "Paraguay": 0.2,
-    "Saudi Arabia": 0.2,
-    "Bosnia and Herzegovina": 0.2,
+    "Austria": 0.4,
+    "South Africa": 0.3,
+    "Colombia": 0.2,
+    "Croatia": 0.2,
     "Tunisia": 0.2,
-    "Cape Verde": 0.2,
-    "Colombia": 0.1,
+    "Portugal": 0.2,
+    "Saudi Arabia": 0.1,
+    "Argentina": 0.1,
+    "Paraguay": 0.1,
+    "Cape Verde": 0.1,
+    "Bosnia and Herzegovina": 0.1,
     "Czech Republic": 0.1,
-    "Portugal": 0.1,
-    "England": 0.1,
-    "Austria": 0.1,
-    "Senegal": 0.1,
-    "Croatia": 0.1,
     "Iran": 0.1,
+    "England": 0.1,
+    "Curacao": 0.1,
+    "Iraq": 0.0,
     "Haiti": 0.0,
-    "New Zealand": 0.0,
-    "Norway": 0.0,
-    "Curacao": 0.0,
-    "Ghana": 0.0,
     "Uzbekistan": 0.0,
-    "Algeria": 0.0
+    "New Zealand": 0.0,
+    "Jordan": 0.0
   }
 }
