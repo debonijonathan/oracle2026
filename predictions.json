@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24 19:54",
+  "generated_at": "2026-06-25 03:55",
   "model_accuracy": "59%",
   "model_logloss": "0.9138",
   "groups": {
@@ -369,9 +369,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.55,
-          "prob_draw": 0.17,
-          "prob_away": 0.28,
+          "prob_home": 0.496,
+          "prob_draw": 0.169,
+          "prob_away": 0.335,
           "prediction": 0
         },
         {
@@ -380,9 +380,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.189,
-          "prob_draw": 0.245,
-          "prob_away": 0.566,
+          "prob_home": 0.268,
+          "prob_draw": 0.207,
+          "prob_away": 0.525,
           "prediction": 2
         },
         {
@@ -457,10 +457,10 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.546,
-          "prob_draw": 0.311,
-          "prob_away": 0.144,
-          "prediction": 1
+          "prob_home": 0.597,
+          "prob_draw": 0.188,
+          "prob_away": 0.215,
+          "prediction": 0
         },
         {
           "home": "Germany",
@@ -479,9 +479,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.653,
-          "prob_draw": 0.268,
-          "prob_away": 0.079,
+          "prob_home": 0.469,
+          "prob_draw": 0.23,
+          "prob_away": 0.301,
           "prediction": 0
         },
         {
@@ -501,10 +501,10 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.685,
-          "prob_draw": 0.198,
-          "prob_away": 0.116,
-          "prediction": 0
+          "prob_home": 0.399,
+          "prob_draw": 0.17,
+          "prob_away": 0.431,
+          "prediction": 2
         },
         {
           "home": "Ivory Coast",
@@ -512,43 +512,43 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.691,
-          "prob_draw": 0.169,
-          "prob_away": 0.139,
-          "prediction": 0
+          "prob_home": 0.389,
+          "prob_draw": 0.157,
+          "prob_away": 0.453,
+          "prediction": 2
         }
       ],
       "standings": [
         {
           "team": "Germany",
-          "points": 7,
+          "points": 9,
           "played": 3,
           "gf": 2,
           "gs": 1,
+          "advances": true
+        },
+        {
+          "team": "Curacao",
+          "points": 6,
+          "played": 3,
+          "gf": 0,
+          "gs": 0,
           "advances": true
         },
         {
           "team": "Ivory Coast",
-          "points": 6,
+          "points": 3,
           "played": 3,
           "gf": 2,
           "gs": 2,
-          "advances": true
-        },
-        {
-          "team": "Ecuador",
-          "points": 4,
-          "played": 3,
-          "gf": 0,
-          "gs": 1,
           "advances": false
         },
         {
-          "team": "Curacao",
+          "team": "Ecuador",
           "points": 0,
           "played": 3,
           "gf": 0,
-          "gs": 0,
+          "gs": 1,
           "advances": false
         }
       ]
@@ -578,9 +578,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.724,
-          "prob_draw": 0.201,
-          "prob_away": 0.075,
+          "prob_home": 0.493,
+          "prob_draw": 0.194,
+          "prob_away": 0.313,
           "prediction": 0
         },
         {
@@ -611,9 +611,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.565,
-          "prob_draw": 0.232,
-          "prob_away": 0.203,
+          "prob_home": 0.426,
+          "prob_draw": 0.193,
+          "prob_away": 0.38,
           "prediction": 0
         },
         {
@@ -1325,44 +1325,43 @@
     }
   },
   "world_cup_winner_odds": {
-    "Spain": 20.0,
-    "Netherlands": 17.2,
-    "Germany": 14.0,
-    "United States": 8.1,
-    "Brazil": 6.2,
-    "Egypt": 4.8,
-    "Japan": 4.3,
-    "Mexico": 4.0,
-    "Croatia": 3.2,
-    "Uruguay": 2.3,
-    "Sweden": 2.3,
-    "Ecuador": 2.0,
-    "Switzerland": 1.7,
-    "Morocco": 1.1,
-    "Paraguay": 1.1,
-    "Ivory Coast": 1.0,
-    "Algeria": 1.0,
-    "Ghana": 0.8,
-    "Senegal": 0.8,
-    "Belgium": 0.6,
-    "DR Congo": 0.6,
-    "Turkey": 0.5,
-    "Qatar": 0.4,
-    "South Korea": 0.3,
-    "Iran": 0.3,
-    "Australia": 0.3,
-    "Scotland": 0.2,
-    "Canada": 0.2,
-    "Austria": 0.2,
-    "Saudi Arabia": 0.1,
-    "Bosnia and Herzegovina": 0.1,
-    "South Africa": 0.1,
+    "Spain": 27.2,
+    "Brazil": 10.6,
+    "Egypt": 10.5,
+    "Mexico": 8.1,
+    "Croatia": 5.2,
+    "Netherlands": 3.9,
+    "Uruguay": 3.9,
+    "Germany": 3.7,
+    "Switzerland": 2.8,
+    "Ghana": 2.5,
+    "Morocco": 2.4,
+    "Algeria": 2.2,
+    "Japan": 2.1,
+    "DR Congo": 2.0,
+    "Senegal": 1.7,
+    "United States": 1.3,
+    "South Korea": 1.1,
+    "Iran": 1.0,
+    "Belgium": 0.9,
+    "Sweden": 0.9,
+    "Scotland": 0.8,
+    "Curacao": 0.7,
+    "Qatar": 0.6,
+    "Canada": 0.5,
+    "Austria": 0.5,
+    "Ecuador": 0.4,
+    "Paraguay": 0.4,
+    "Ivory Coast": 0.3,
+    "Turkey": 0.3,
+    "Saudi Arabia": 0.3,
+    "Bosnia and Herzegovina": 0.2,
+    "Iraq": 0.2,
+    "Cape Verde": 0.2,
+    "Australia": 0.1,
     "Czech Republic": 0.1,
-    "Iraq": 0.1,
-    "Curacao": 0.1,
-    "Cape Verde": 0.1,
-    "Haiti": 0.0,
-    "Uzbekistan": 0.0,
-    "Panama": 0.0
+    "South Africa": 0.1,
+    "Uzbekistan": 0.1,
+    "Haiti": 0.1
   }
 }
