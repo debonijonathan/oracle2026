@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28 19:27",
+  "generated_at": "2026-06-29 04:14",
   "model_accuracy": "59%",
   "model_logloss": "0.9143",
   "groups": {
@@ -479,9 +479,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.685,
-          "prob_draw": 0.232,
-          "prob_away": 0.083,
+          "prob_home": 0.552,
+          "prob_draw": 0.188,
+          "prob_away": 0.26,
           "prediction": 0
         },
         {
@@ -1325,24 +1325,24 @@
     }
   },
   "world_cup_winner_odds": {
-    "Brazil": 22.6,
-    "Belgium": 21.0,
-    "Netherlands": 17.1,
-    "Spain": 12.4,
-    "Mexico": 8.5,
-    "Germany": 6.4,
-    "Switzerland": 5.5,
-    "Sweden": 1.3,
-    "Algeria": 1.1,
-    "United States": 1.0,
-    "Ecuador": 0.7,
-    "Paraguay": 0.5,
-    "Bosnia and Herzegovina": 0.4,
-    "South Korea": 0.4,
-    "Ghana": 0.4,
-    "Ivory Coast": 0.3,
-    "DR Congo": 0.2,
-    "Scotland": 0.1,
-    "Curacao": 0.0
+    "Belgium": 29.2,
+    "Spain": 19.0,
+    "Mexico": 12.0,
+    "Switzerland": 10.7,
+    "Brazil": 7.3,
+    "Netherlands": 4.0,
+    "Algeria": 3.4,
+    "United States": 3.1,
+    "Sweden": 2.8,
+    "Ecuador": 1.6,
+    "Germany": 1.4,
+    "DR Congo": 1.1,
+    "South Korea": 1.0,
+    "Bosnia and Herzegovina": 0.9,
+    "Ghana": 0.9,
+    "Ivory Coast": 0.8,
+    "Scotland": 0.6,
+    "Paraguay": 0.1,
+    "Curacao": 0.1
   }
 }
