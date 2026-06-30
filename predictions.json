@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30 03:57",
+  "generated_at": "2026-06-30 09:45",
   "model_accuracy": "59%",
   "model_logloss": "0.9143",
   "groups": {
@@ -1325,24 +1325,24 @@
     }
   },
   "world_cup_winner_odds": {
-    "Belgium": 30.6,
-    "Spain": 19.6,
-    "Switzerland": 14.4,
+    "Belgium": 29.9,
+    "Spain": 19.3,
+    "Switzerland": 15.1,
     "Brazil": 8.5,
-    "United States": 4.8,
+    "United States": 5.0,
     "Algeria": 4.5,
-    "Netherlands": 4.1,
-    "Mexico": 3.2,
+    "Netherlands": 4.2,
+    "Mexico": 2.9,
     "Bosnia and Herzegovina": 2.1,
-    "DR Congo": 1.8,
-    "Ghana": 1.6,
-    "Germany": 1.4,
+    "DR Congo": 1.9,
+    "Ghana": 1.7,
+    "Germany": 1.5,
     "South Korea": 1.1,
     "Scotland": 0.9,
     "Sweden": 0.8,
     "Paraguay": 0.2,
-    "Ecuador": 0.2,
     "Curacao": 0.2,
+    "Ecuador": 0.2,
     "Ivory Coast": 0.1
   }
 }
