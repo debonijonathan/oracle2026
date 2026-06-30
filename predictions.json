@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29 20:09",
+  "generated_at": "2026-06-30 03:57",
   "model_accuracy": "59%",
   "model_logloss": "0.9143",
   "groups": {
@@ -501,9 +501,9 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.706,
-          "prob_draw": 0.201,
-          "prob_away": 0.093,
+          "prob_home": 0.459,
+          "prob_draw": 0.156,
+          "prob_away": 0.384,
           "prediction": 0
         },
         {
@@ -512,10 +512,10 @@
           "status": "predicted",
           "home_score": null,
           "away_score": null,
-          "prob_home": 0.631,
-          "prob_draw": 0.195,
-          "prob_away": 0.175,
-          "prediction": 0
+          "prob_home": 0.41,
+          "prob_draw": 0.147,
+          "prob_away": 0.443,
+          "prediction": 2
         }
       ],
       "standings": [
@@ -537,7 +537,7 @@
         },
         {
           "team": "Ivory Coast",
-          "points": 6,
+          "points": 3,
           "played": 3,
           "gf": 2,
           "gs": 2,
@@ -545,7 +545,7 @@
         },
         {
           "team": "Curacao",
-          "points": 0,
+          "points": 3,
           "played": 3,
           "gf": 0,
           "gs": 0,
@@ -1325,24 +1325,24 @@
     }
   },
   "world_cup_winner_odds": {
-    "Belgium": 29.0,
-    "Spain": 18.5,
-    "Mexico": 13.4,
-    "Switzerland": 10.3,
-    "Brazil": 7.1,
-    "Netherlands": 3.8,
-    "Algeria": 3.3,
-    "United States": 3.0,
-    "Sweden": 2.7,
-    "Ecuador": 2.1,
+    "Belgium": 30.6,
+    "Spain": 19.6,
+    "Switzerland": 14.4,
+    "Brazil": 8.5,
+    "United States": 4.8,
+    "Algeria": 4.5,
+    "Netherlands": 4.1,
+    "Mexico": 3.2,
+    "Bosnia and Herzegovina": 2.1,
+    "DR Congo": 1.8,
+    "Ghana": 1.6,
     "Germany": 1.4,
-    "DR Congo": 1.2,
-    "Ghana": 1.0,
-    "South Korea": 0.9,
-    "Bosnia and Herzegovina": 0.9,
-    "Ivory Coast": 0.8,
-    "Scotland": 0.5,
-    "Paraguay": 0.1,
-    "Curacao": 0.1
+    "South Korea": 1.1,
+    "Scotland": 0.9,
+    "Sweden": 0.8,
+    "Paraguay": 0.2,
+    "Ecuador": 0.2,
+    "Curacao": 0.2,
+    "Ivory Coast": 0.1
   }
 }
