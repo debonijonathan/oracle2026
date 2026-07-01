@@ -1,4 +1,4 @@
-name: Update Predictions
+Name: Update Predictions
 
 on:
   schedule:
@@ -23,7 +23,11 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pandas numpy scikit-learn xgboost kaggle
+        # AGGIORNATO: Disinstalliamo kagglesdk/kaggle obsoleti ed eseguiamo un'installazione pulita senza cache
+        run: |
+          pip uninstall -y kaggle kagglesdk
+          pip install --no-cache-dir --upgrade pip
+          pip install --no-cache-dir pandas numpy scikit-learn xgboost kaggle
 
       - name: Run prediction script
         env:
